@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MSUM Dragons</string>
+    <string name="txtlogin">MSUM Login</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="txtUsername">UserName</string>
+    <string name="txtPassword">Password</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="successMessage">Success!</string>
+    <string name="failedMessage">Failed, please try again.</string>
+    <string name="backToMenu">Back to Menu</string>
+</resources>
